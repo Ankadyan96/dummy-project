@@ -1,0 +1,1 @@
+This is the dummy project or portfolio for the learning the differences between git, github, github desktop and gai the knowledge of commit.
